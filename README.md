@@ -68,8 +68,8 @@ The project focuses on the analysis and preprocessing stage contained in the not
 ```text
 heart-disease-analysis/
 │
-├── Heart(1).ipynb
-├── heart(1).csv
+├── Heart.ipynb
+├── heart.csv
 └── README.md
 ```
 
